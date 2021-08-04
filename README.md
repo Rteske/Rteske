@@ -7,3 +7,4 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love Watermelon and Problems
 
+[![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rteske)](https://github.com/Rteske/github-readme-stats)
