@@ -1,4 +1,4 @@
-## Hi I am Ryan
+## Hi I am the largest yellowest Bird
 ### Rails Web Dev
 ### Looking to learn anything in Tech
 #### HMU ON LinkedIn https://www.linkedin.com/in/ryan-teske-2021/
